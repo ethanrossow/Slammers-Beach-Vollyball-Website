@@ -15,7 +15,7 @@ nav {
 
 #container {
 	width: 2000px;
-	height: 2000px;	
+	height: 1000px;	
 	margin-left: auto;
 	margin-right: auto;
 	padding-left: 280px;
@@ -33,6 +33,7 @@ body {
 	width: 400px; 
 	height: 280px;
 	margin-top: 20px;
+	margin-bottom: 10px;
 	padding: 60px;
 	text-align: left;
 	float: left;
@@ -46,7 +47,8 @@ body {
 	margin-left: 10px;
 	padding: 60px;
 	float: left;
-	border: dashed #999999;   
+	border: dashed #999999;
+	line-height: 7mm;  
 }
 
 #girls {
@@ -60,29 +62,38 @@ body {
 	margin-left: 10px;
 }
 
-#playing_guidelines {
-	width: 400px;
-	height: 500px;
-	padding: 60px;
-	padding-bottom: 0px;
-	text-align: left;
-	border-style: solid;
-	border-color: #999999;
-	clear: left;
+#links {
+	clear: both;
+	width: 1040px;
+	border: solid #999999;
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	line-height: 7mm;
+	background-color: #f2f2f2;
 }
 
-a:link {
-	color: white;
-	text-decoration: none;
-}
+/*Title link*/
+a.class4:link  {text-decoration: none; color: white;}
+a.class4:visited {text-decoration: none; color: white;}
+a.class4:hover {text-decoration: none; color: white;}
 
-a:visited {
-	color: white;	
-}
+/*Nav links*/
+a:link {text-decoration: none; color: white;}
+a:visited {text-decoration: none; color: white;}
+a:hover {text-decoration: none; color: #a6a6a6;}
 
-a:hover {
-	color: grey;
-}
+/*Sign-up link*/
+a.class5:link  {text-decoration: none; color: #3399ff;}
+a.class5:visited {text-decoration: none; color: #3399ff;}
+a.class5:hover {text-decoration: none; color: #a6a6a6;}
 
+/*Play Professionally link*/
+a.class2:link  {text-decoration: none; color: white;}
+a.class2:visited {text-decoration: none; color: white;}
+a.class2:hover {text-decoration: none; color: yellow;}
 
-
+/*Links section links*/
+a.class1:link  {text-decoration: none; color: #3399ff;}
+a.class1:visited {text-decoration: none; color: #3399ff;}
+a.class1:hover {text-decoration: none; color: #a6a6a6;}

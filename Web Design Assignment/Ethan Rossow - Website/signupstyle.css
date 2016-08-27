@@ -13,22 +13,68 @@ nav {
 	text-align: center;
 }
 
+#container {
+	width: 1000px;
+	height: 1000px;	
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 280px;
+	padding-right: 280px;
+}
+
+#sign_up {
+	width: 800px;
+	height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	text-height: 8mm;
+	border: solid #3399ff;
+}
+
+#sign_up_button {
+	width: 80px;
+	height: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #3399ff;
+	float: inherit;
+	padding: 5px;		
+}
+
+#playing_guidelines {
+	width: 780px;
+	height: 200px;	
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: justify;
+	border: dashed #999999;
+}
+	
+
 body {
 	background-color: white;
 	text-align: center;	
 	font-family: arial;
-	text-align: justify;
+	text-align: center;
 }
 
-a:link {
-	color: white;
-	text-decoration: none;
-}
+/*Title link*/
+a.class4:link  {text-decoration: none; color: white;}
+a.class4:visited {text-decoration: none; color: white;}
+a.class4:hover {text-decoration: none; color: white;}
 
-a:visited {
-	color: white;	
-}
+/*Nav links*/
+a:link {text-decoration: none; color: white;}
+a:visited {text-decoration: none; color: white;}
+a:hover {text-decoration: none; color: #a6a6a6;}
 
-a:hover {
-	color: grey;
-}
+/*Live page link*/
+a.class3:link  {text-decoration: none; color: yellow;}
+a.class3:visited {text-decoration: none; color: yellow;}
+a.class3:hover {text-decoration: none; color: #a6a6a6;}
