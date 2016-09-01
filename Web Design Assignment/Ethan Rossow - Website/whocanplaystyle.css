@@ -32,6 +32,11 @@ nav {
 	border: solid #3399ff;
 }
 
+#army {
+	float: left;
+	padding-right: 20px;	
+}
+
 body {
 	background-color: white;
 	text-align: center;	

@@ -39,6 +39,11 @@ body {
 	border: dashed #3399ff;
 }
 
+#net {
+	float:left; 
+	padding-right: 20px;
+}
+
 /*Title link*/
 a.class1:link  {text-decoration: none; color: white;}
 a.class1:visited {text-decoration: none; color: white;}
