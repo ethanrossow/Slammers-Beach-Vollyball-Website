@@ -74,26 +74,26 @@ body {
 }
 
 /*Title link*/
-a.class4:link  {text-decoration: none; color: white;}
-a.class4:visited {text-decoration: none; color: white;}
-a.class4:hover {text-decoration: none; color: white;}
+a.class1:link  {text-decoration: none; color: white;}
+a.class1:visited {text-decoration: none; color: white;}
+a.class1:hover {text-decoration: none; color: white;}
 
 /*Nav links*/
 a:link {text-decoration: none; color: white;}
 a:visited {text-decoration: none; color: white;}
-a:hover {text-decoration: none; color: #a6a6a6;}
+a:hover {text-decoration: none; color: #999999;}
 
 /*Sign-up link*/
-a.class5:link  {text-decoration: none; color: #3399ff;}
-a.class5:visited {text-decoration: none; color: #3399ff;}
-a.class5:hover {text-decoration: none; color: #a6a6a6;}
+a.class2:link  {text-decoration: none; color: #3399ff;}
+a.class2:visited {text-decoration: none; color: #3399ff;}
+a.class2:hover {text-decoration: none; color: #999999;}
 
 /*Play Professionally link*/
-a.class2:link  {text-decoration: none; color: white;}
-a.class2:visited {text-decoration: none; color: white;}
-a.class2:hover {text-decoration: none; color: yellow;}
+a.class3:link  {text-decoration: none; color: white;}
+a.class3:visited {text-decoration: none; color: white;}
+a.class3:hover {text-decoration: none; color: yellow;}
 
 /*Links section links*/
-a.class1:link  {text-decoration: none; color: #3399ff;}
-a.class1:visited {text-decoration: none; color: #3399ff;}
-a.class1:hover {text-decoration: none; color: #a6a6a6;}
+a.class4:link  {text-decoration: none; color: #3399ff;}
+a.class4:visited {text-decoration: none; color: #3399ff;}
+a.class4:hover {text-decoration: none; color: #999999;}

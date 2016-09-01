@@ -23,8 +23,6 @@ nav {
 }
 
 #sign_up {
-	width: 800px;
-	height: 500px;
 	margin-left: auto;
 	margin-right: auto;
 	padding: 10px;
@@ -41,12 +39,10 @@ nav {
 	margin-right: auto;
 	background-color: #3399ff;
 	float: inherit;
-	padding: 5px;		
+    padding: 5px;	
 }
 
 #playing_guidelines {
-	width: 780px;
-	height: 200px;	
 	margin-left: auto;
 	margin-right: auto;
 	padding-top: 10px;
@@ -65,16 +61,16 @@ body {
 }
 
 /*Title link*/
-a.class4:link  {text-decoration: none; color: white;}
-a.class4:visited {text-decoration: none; color: white;}
-a.class4:hover {text-decoration: none; color: white;}
+a.class1:link  {text-decoration: none; color: white;}
+a.class1:visited {text-decoration: none; color: white;}
+a.class1:hover {text-decoration: none; color: white;}
 
 /*Nav links*/
 a:link {text-decoration: none; color: white;}
 a:visited {text-decoration: none; color: white;}
-a:hover {text-decoration: none; color: #a6a6a6;}
+a:hover {text-decoration: none; color: #999999;}
 
 /*Live page link*/
-a.class3:link  {text-decoration: none; color: yellow;}
-a.class3:visited {text-decoration: none; color: yellow;}
-a.class3:hover {text-decoration: none; color: #a6a6a6;}
+a.class2:link  {text-decoration: none; color: yellow;}
+a.class2:visited {text-decoration: none; color: yellow;}
+a.class2:hover {text-decoration: none; color: #999999;}
