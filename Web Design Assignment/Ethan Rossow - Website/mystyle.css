@@ -4,7 +4,7 @@ header {
 	text-align: center;
 	padding: 10px;
 	display: block;
-	background-image: url(../BeachVolleyball/newestheader.jpg); 
+	background-image: url(newestheader.jpg); 
 }
 
 nav {
@@ -14,7 +14,7 @@ nav {
 }
 
 #container {
-	width: 2000px;
+	width: 1330px;
 	height: 1000px;	
 	margin-left: auto;
 	margin-right: auto;
@@ -71,6 +71,10 @@ body {
 	padding-bottom: 20px;
 	line-height: 7mm;
 	background-color: #f2f2f2;
+}
+
+#ladder {
+	margin-top: 10px;	
 }
 
 /*Title link*/
